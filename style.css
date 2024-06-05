@@ -1,0 +1,55 @@
+main
+{
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+height: 1000px;
+font-size: 60px;
+text-align: center;
+background-size: cover;
+width: 1860px;
+
+
+
+
+}
+header{
+    background-color: rgb(255, 255, 255);
+
+    height: 250px;
+    background-size: cover;
+    width: 1760px;
+    padding: 50px;
+    font-size: 100px;
+    text-align: center;
+ }
+body{
+margin: 0px;
+
+}
+
+footer{
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 100px;
+    
+    .social img {
+    width: 100px;
+    padding: 10px;
+    }
+    .social {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    
+    
+}
+
+
+
+
+    
